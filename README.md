@@ -7,3 +7,4 @@ Twitter  - [@anton_ryazanov_](https://twitter.com/anton_ryazanov_) <br>
 Discord  - AntonR#6038 <br>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=antoniocra04&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniocra04&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
