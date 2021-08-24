@@ -1,6 +1,6 @@
 ## About Me :pencil:
 Im Fullstack web developer<br>
-My web-site: https://anton-ryazanov.xyz/<br>
+My web-site: https://anton-ryazanov.fun/<br>
 
 ## Languages and Tools:
 
